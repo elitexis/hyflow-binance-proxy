@@ -1,5 +1,5 @@
 {
-  "name": "hyflow-binance-proxy",
+  "name": "hyflow-tradebot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
